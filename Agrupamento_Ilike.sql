@@ -1,9 +1,8 @@
 ---------------------------------------------------
---- Lista de Exercícios 4
+--- Lista de Exercícios
 --- Aluno: Thiago Brito Cassimiro da Silva
 ---------------------------------------------------
---- Questão 9 - Gasto por usuário com a Uber Trip
----------------------------------------------------
+
 
 SELECT U.id, 
        INITCAP(U.full_name) as "Nome Completo", --Inicialização de cada palavra com letra maiúscula
